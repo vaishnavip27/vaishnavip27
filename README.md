@@ -3,9 +3,9 @@ Hi there! I'm Vaishnavi Patil, a Frontend Developer passionate about building be
 I specialize in crafting seamless user experiences with animations that bring designs to life. I’ve also dabbled in Blender, adding a touch of 3D to my creative experiments.
 
 ### Tools and Technologies:
-- TypeScript, React.js, Next.js, Vite
-- Tailwind CSS, Framer Motion, Spline
-- Node.js, Rust, Solidity
+- TypeScript, React.js, Next.js, Vite, JavaScript 
+- Tailwind CSS, Framer Motion, GSAP, Spline
+- Node.js, Express.js
 - Git, Databases
 
 ### Projects:
