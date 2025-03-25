@@ -11,7 +11,7 @@ I specialize in crafting seamless user experiences with animations that bring de
 ### Projects:
 Here are some of the projects I've worked on as a frontend/full-stack dev:
 
-- **TaskFlow** : https://kanban-alpha-five.vercel.app/
+- **TaskFlow** : https://kanban-lyart-zeta.vercel.app/
 - **TRENDORIA** : https://e-commerce-gray-eight.vercel.app/
 - **Weave Word** : https://weave-word.vercel.app/
 - **Zero Gravity** : https://zero-gravity-five.vercel.app/
